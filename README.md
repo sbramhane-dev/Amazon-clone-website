@@ -2,6 +2,11 @@
 
 An Amazon-inspired frontend clone created with HTML and CSS, focusing on layout design and styling.
 
+#  Live site
+
+live at https://sbramhane-dev.github.io/Amazon-clone-website/
+
+
 # Overview
 
 This project is a frontend clone of Amazon's homepage created for practicing web development fundamentals such as HTML structure, CSS styling, Flexbox layouts, and page design. 
@@ -28,8 +33,6 @@ Improve accessibility
 
 Add interactive elements with JavaScript
 
-#  Live site
 
-live at https://sbramhane-dev.github.io/Amazon-clone-website/
 
 Optimize images and layout
