@@ -28,4 +28,8 @@ Improve accessibility
 
 Add interactive elements with JavaScript
 
+#  Live site
+
+live at https://sbramhane-dev.github.io/Amazon-clone-website/
+
 Optimize images and layout
